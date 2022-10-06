@@ -53,3 +53,18 @@ nav .navbar-right .menu-perfil a img {
     margin-left: 12px;
 
 }
+
+main{
+    margin-top: 150px;
+    text-align: center;
+}
+
+main .main-logo {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-logo img {
+    width: 300px;
+}
